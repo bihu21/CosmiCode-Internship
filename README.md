@@ -1,1 +1,1 @@
-Thus repository cintains all weekly tasks for the Cosmicode Internship Program 
+This repository contains all weekly tasks for the Cosmicode Internship Program 
